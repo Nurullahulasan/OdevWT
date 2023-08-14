@@ -1,2 +1,0 @@
-# OdevWT
-Ödev CV
